@@ -1,0 +1,30 @@
+IPO1-Wk1-Code-Challenge
+BY: Beatrice Njeri
+
+INTRODUCTION
+This challenge includes 3 questions:
+Question One: clock converter
+It is a program that writes time in 24 hour system from 12 hour system. 
+
+Question 2: Checking positive number
+Compares 3 numbers if two are positive it evaluates to true otherwise fslse.
+
+Question 3: Checking consonant value
+Checks if value is a consonant. if true it calculates highest consonant value 
+
+clone the repository : git@github.com:BeatriceNjeriMwangi/IP01-Wk1-Code-Challenge.git
+
+TECHNOLOGIES USED:
+Python
+
+License
+MIT License
+
+Copyright © 2023 BeatriceNjeriMwangi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
